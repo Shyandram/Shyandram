@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shyandram
-- 👀 I’m interested in Computer Vision and Deep Learning
-- 🌱 I’m currently learning in The Department of Electronic Engineering, CYCU, Taiwan.
+- 👀 I’m interested in Computer Vision and Deep Learning (Super Resolution, Multi-Object Tracking)
+- 🌱 I’m currently learning Dehazing, and GAN-based model.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
