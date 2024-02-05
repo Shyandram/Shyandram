@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Shyandram
-- 👀 I’m interested in Computer Vision and Deep Learning (Super Resolution, Multi-Object Tracking)
-- 🌱 I’m currently learning Dehazing, GAN-based model, and some generative models.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <img src="headshot.jpg" />
+</p>
+<center>👋 Hi, I’m @Shyandram, a graduate student pursuing the MS in ECE@UWM and the MS in EL@CYCU. I’m interested in Computer Vision and Deep Learning, and focusing on Image Enhancement and Restoration, GAN-based model, image generative models, and Image Processing Applications. </center>
 
 <!---
 Shyandram/Shyandram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
