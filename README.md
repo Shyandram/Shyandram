@@ -18,10 +18,8 @@
 <p align="left">
   Enthusiastic dual Master’s student specializing in Image Processing and Pattern Recognition within ECE@UWM and EL@CYCU. Experience in various image processing and deep learning application projects, with a strong background in academic conferences and journal publications. Possesses strong creative and leadership skills, eager to contribute innovative solutions tailored for real-world applications.
 </p>
-<h3 align="center"> 
-  Let's Connect!
-</h3>
-<p align="center"> Shyang-En Weng</p>
+
+<h3 align="center"> Shyang-En Weng</h3>
 <p align="center">E-mail: <a href="mailto:shyangen104@gmail.com">shyangen104@gmail.com</a></p>
 <p align="center">
   <a href="https://github.com/Shyandram">GitHub</a> |
