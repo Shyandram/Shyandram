@@ -19,7 +19,7 @@
 ### 🔬 Research Focus
 Currently a PhD student at **NYCU (ACM Lab)** specializing in:
 * **Image Restoration:** Super-Resolution, Low-Light Enhancement, Dehazing.
-* **Generative Models:** Zero-shot adaptation of Stable Diffusion.
+* **Generative Models:** Stable Diffusion.
 * **Edge AI:** Lightweight neural networks for real-world applications.
 
 <p align="center">
