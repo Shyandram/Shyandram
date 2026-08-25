@@ -21,7 +21,3 @@ Currently a PhD student at **NYCU (ACM Lab)** specializing in:
 * **Image Restoration:** Super-Resolution, Low-Light Enhancement, Dehazing.
 * **Generative Models:** Stable Diffusion.
 * **Edge AI:** Lightweight neural networks for real-world applications.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyandram&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
