@@ -1,23 +1,28 @@
-<p align="center">
-  <img src="headshot.jpg" alt="Shyang-En Weng" width="150px" style="border-radius: 50%;" />
-  <h1 align="center">Shyang-En Weng (翁祥恩)</h1>
-  <p align="center">
-    <strong>PhD Student @ NYCU | Dual MS (UWM & CYCU)</strong><br>
-    Computer Vision & Deep Learning Researcher
-  </p>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=DBBIjHsAAAAJ">Google Scholar</a> | 
-  <a href="https://linkedin.com/in/shyandram">LinkedIn</a> | 
-  <a href="https://shyandram.github.io/shyandram_web/">Website</a> | 
-  <a href="mailto:shyangen104@gmail.com">Email</a>
-</p>
+<img src="headshot.jpg" alt="Shyang-En Weng" width="140" height="140" />
+
+# Shyang-En Weng · 翁祥恩
+
+**PhD student @ NYCU (ACM Lab)** · Dual MS (UWM & CYCU)
+<br>
+Computer vision & deep learning researcher
+
+<a href="https://shyandram.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-shyandram.dev-121212?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://blog.shyandram.dev/zh-tw/"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.shyandram.dev-fb923c?style=flat-square&logo=rss&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=DBBIjHsAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+<a href="https://orcid.org/0000-0002-4663-7846"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--4663--7846-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/Shyandram/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shyandram-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shyangen104@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shyangen104-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
-### 🔬 Research Focus
-Currently a PhD student at **NYCU (ACM Lab)** specializing in:
-* **Image Restoration:** Super-Resolution, Low-Light Enhancement, Dehazing.
-* **Generative Models:** Stable Diffusion.
-* **Edge AI:** Lightweight neural networks for real-world applications.
+## 🔬 Research focus
+
+| Area | Topics |
+| :-- | :-- |
+| **Image restoration** | Super-resolution · Low-light enhancement · Dehazing |
+| **Generative models** | Diffusion models for real-world super-resolution |
+| **Edge AI** | Lightweight neural networks for real-world applications |
